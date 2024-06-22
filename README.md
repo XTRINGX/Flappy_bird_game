@@ -27,5 +27,5 @@ Earn points for passing through pipes.
 The game ends when the bird collides, and you can restart by pressing 'R'.
 
 #Credits
-Developer: King Richard
+Developer: King Richard  
 Acknowledgement: The Hans Guy
